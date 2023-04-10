@@ -1,8 +1,6 @@
 # Clover
 ![Clover's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrawberryClover&showicons=true&theme=radical)
 
-Pretty below average dev, just kinda doin' things for fun. My code is pretty messy. Ye have been warned.
-
 <!--
 **StrawberryClover/StrawberryClover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
